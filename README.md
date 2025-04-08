@@ -10,4 +10,4 @@
 Proje dosyasını bilgisayarınıza indirmek için:
 
 ```bash
-git clone https://github.com/frmeddy/eddy-cafe.git
+git clone https://github.com/frmeddy/EDDY-CAFE.git
