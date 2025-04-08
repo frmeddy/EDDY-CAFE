@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\typho\\source\\repos\\ED CAFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E00B30D2-3242-49E0-A6C3-A453978D2D1E}|ED CAFE\\ED CAFE.csproj|c:\\users\\typho\\source\\repos\\ed cafe\\ed cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E00B30D2-3242-49E0-A6C3-A453978D2D1E}|ED CAFE\\ED CAFE.csproj|solutionrelative:ed cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\typho\\source\\repos\\ED CAFE\\ED CAFE\\Form1.cs",
+              "RelativeDocumentMoniker": "ED CAFE\\Form1.cs",
+              "ToolTip": "C:\\Users\\typho\\source\\repos\\ED CAFE\\ED CAFE\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ED CAFE\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:12:20.978Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
